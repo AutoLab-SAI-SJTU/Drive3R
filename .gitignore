@@ -1,0 +1,40 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+.eggs/
+.Python
+build/
+dist/
+
+# --- Virtual envs ---
+.venv/
+venv/
+env/
+
+# --- Editors / OS ---
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# --- Inference outputs ---
+outputs/
+logs/
+*.log
+
+# --- Heavy artefacts (push via Hugging Face / Releases instead) ---
+*.pt
+*.bin
+*.safetensors
+*.ckpt
+*.npz
+*.ply
+*.tum
+
+# --- Local secrets ---
+.env
+*.local

@@ -1,0 +1,11 @@
+# Inference runtime. Install the CUDA build of PyTorch matching your driver first.
+torch==2.5.1
+numpy==1.26.4
+safetensors
+huggingface_hub
+pillow
+plyfile
+viser                 # optional interactive viewer: --viser
+
+# Optional depth densification:
+#   pip install git+https://github.com/microsoft/MoGe.git
