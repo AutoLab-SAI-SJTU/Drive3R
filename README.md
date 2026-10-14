@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://silence-ai423.github.io/Drive3R/" target="_blank"><img src="https://img.shields.io/badge/Project-Page-blue" alt="Project Page"></a>
-  <a href="https://silence-ai423.github.io/Drive3R/assets/drive3r-paper.pdf?v=29316ee84bb6" target="_blank"><img src="https://img.shields.io/badge/Paper-PDF-red" alt="Paper PDF"></a>
+  <a href="https://arxiv.org/pdf/2610.15112" target="_blank"><img src="https://img.shields.io/badge/Paper-PDF-red" alt="Paper PDF"></a>
   <a href="https://huggingface.co/Young857/Drive3R" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Drive3R-yellow"></a>
   <a href="./LICENSE"><img src="https://img.shields.io/badge/license-CC%20BY--NC%204.0-green"></a>
 </p>
@@ -364,14 +364,14 @@ Drive3R/
 
 ## ✒️ Citation
 
-Paper: [Drive3R: Block-wise Streaming Geometric Foundation Models for Autonomous Driving](https://silence-ai423.github.io/Drive3R/assets/drive3r-paper.pdf?v=29316ee84bb6).
+Paper: [Drive3R: Block-wise Streaming Geometric Foundation Models for Autonomous Driving](https://arxiv.org/pdf/2610.15112).
 
 ```bibtex
 @misc{yang_drive3r,
   title = {Drive3R: Block-wise Streaming Geometric Foundation Models for Autonomous Driving},
   author = {Yang, Tianyi and Yang, Haojun and Xiao, Jipeng and Chen, Xuesong and Shi, Shaoshuai and Jiang, Li and Zhang, Zhipeng},
   note = {Research manuscript},
-  url = {https://silence-ai423.github.io/Drive3R/assets/drive3r-paper.pdf}
+  url = {https://arxiv.org/abs/2610.15112}
 }
 ```
 
